@@ -1,5 +1,7 @@
 # Playwright POM Example
 
+[![Playwright Tests](https://github.com/Rahul11021993/Playwright-MCP/actions/workflows/playwright.yml/badge.svg)](https://github.com/Rahul11021993/Playwright-MCP/actions/workflows/playwright.yml)
+
 This workspace contains a small Playwright test suite demonstrating a Page Object Model (POM).
 
 Files added:
